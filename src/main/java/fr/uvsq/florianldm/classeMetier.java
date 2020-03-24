@@ -1,11 +1,17 @@
 package fr.uvsq.florianldm;
 
 public class classeMetier {
-    public classeMetier(){
+    /**
+     * Constructeur.
+     */
+    public classeMetier() {
 
     }
 
-    public void unemethodedemetier(){
+    /**
+     * Méthode de métier.
+     */
+    public void unemethodedemetier() {
         //Début fonction
         //Fin fonction
     }
