@@ -1,1 +1,1 @@
-typeSearchIndex = [{"p":"fr.uvsq.florianldm","l":"App"},{"p":"fr.uvsq.florianldm","l":"classeMetier"}]
+typeSearchIndex = [{"p":"fr.uvsq.florianldm","l":"App"},{"p":"fr.uvsq.florianldm","l":"ClasseMetier"}]

@@ -1,10 +1,10 @@
 package fr.uvsq.florianldm;
 
-public class classeMetier {
+public class ClasseMetier {
     /**
      * Constructeur.
      */
-    public classeMetier() {
+    public ClasseMetier() {
 
     }
 
